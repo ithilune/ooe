@@ -10,7 +10,7 @@ description: "I protagonisti dell'avventura"
 
 {{% colonne size="f6" %}}
 
-![[images/s_amoretti.webp]]
+{{< figure src="/images/s_amoretti.webp" width="250px" >}}
 
 - **Professione** Storico
 - **Età** 66 anni
