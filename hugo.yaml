@@ -7,10 +7,6 @@ MetaDataFormat: yaml
 title: home
 theme: ananke
 
-canonifyURLs: true
-relativeURLs: true
-
-
 markup:
  goldmark:
   renderer:
