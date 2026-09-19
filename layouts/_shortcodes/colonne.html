@@ -1,0 +1,16 @@
+{{ $input := .Inner }}
+{{ $blocchi := split $input "<!-- colonna -->" }}
+{{ $size := .Get "size" | default "f5" }} <!-- f5 è la grandezza standard -->
+
+<!-- mw-100 forza il layout a usare il 100% della larghezza disponibile -->
+<div class="cf ph2-ns w-100 mw-100 {{ $size }}">
+  <!-- Colonna 1 -->
+  <div class="fl w-100 w-50-ns pa3">
+    {{ index $blocchi 0 | markdownify }}
+  </div>
+  <!-- Colonna 2 -->
+  <div class="fl w-100 w-50-ns pa3">
+    {{ index $blocchi 1 | markdownify }}
+  </div>
+</div>
+

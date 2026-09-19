@@ -1,0 +1,64 @@
+baseURL: https://example.org/
+#locale: it-it
+languageCode: it-it
+DefaultContentLanguage: it
+MetaDataFormat: yaml
+#SectionPagesMenu: principale
+title: home
+theme: ananke
+
+markup:
+ goldmark:
+  renderer:
+   unsafe: true
+
+
+#ananke.home:
+#content_alignment: right # options: left, center, right
+
+# menu in alto
+menus:
+    main:
+    - name: Personaggi  
+      pageRef: /personaggi
+      weight: 10 
+    - name: Scene
+      pageRef: /scene
+      weight: 20
+    - name: Indizi
+      pageRef: /indizi
+      weight: 30
+    - name: PNG
+      pageRef: /png
+      weight: 40
+    - name: Mappe
+      pageRef: /mappe
+      weight: 50  
+
+params:
+    #site_logo: images/logo.webp
+    mainSections: scene  #nota principale index
+    date_format: 2 gennaio 2006
+    read_more_copy: Leggi tutto
+    #show_reading_time: true
+    #background_color_class: bg-green
+    #text_color: green
+    cover_dimming_class: bg-black-10
+    #body_classes: avenir bg-dark-red
+    #body_classes: baskerville bg-near-white
+    #post_content_classes: baskerville
+    recent_posts_number: 2
+    featured_image_class: vh-95 bg-center
+    #featured_image_class: contain bg-center
+    
+#ananke.home:
+ #   content_alignment: right
+
+#params.ananke:
+ #   custom_css: /css/custom.css
+#    show_categories: false 
+
+
+#params.ananke.pages:
+#    show_date: false
+#    show_list_images: true
