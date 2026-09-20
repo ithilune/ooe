@@ -35,9 +35,15 @@ menus:
     - name: PNG
       pageRef: /png
       weight: 40
+    - name: Note
+      pageRef: /note
+      weight: 50
     - name: Mappe
       pageRef: /mappe
-      weight: 50  
+      weight: 60  
+    - name: Credits
+      pageRef: /credits
+      weight: 70 
 
 params:
     #site_logo: images/logo.webp
@@ -52,17 +58,21 @@ params:
     #body_classes: baskerville bg-near-white
     #post_content_classes: baskerville
     recent_posts_number: 2
-    featured_image_class: vh-95 bg-center
+    featured_image_class: vh-95 bg-center #posizione hero image
     #featured_image_class: contain bg-center
-    #custom_css: css/custom.css
+    post_content_classes: f6 #dimensione globale del font
+    
     
 #ananke.home:
  #   content_alignment: right
 
 #params.ananke:
- #   custom_css: /css/custom.css
+#    custom_css: assets/_ananke/css/custom.css
 #    show_categories: false 
 
+#params.ananke:
+ #   custom_css: custom.css  # boh non funziona
+ 
 
 #params.ananke.pages:
 #    show_date: false

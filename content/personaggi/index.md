@@ -1,7 +1,7 @@
 ---
-featured_image: "images/horror_hero.webp"
-title: "Personaggi"
-description: "I protagonisti dell'avventura"
+featured_image: images/horror_hero.webp
+title: Personaggi
+description: I protagonisti dell'avventura
 ---
 
 ---

@@ -1,0 +1,8 @@
+<!-- font e dimensioni 
+
+<span style="font-family: {{ .Get "name" | default "inherit" }}; font-size: {{ .Get "size" | default "inherit" }};">
+    {{ .Inner | markdownify }}
+</span>   -->
+<span class="{{ .Get 0 }}">{{ .Inner | markdownify }}</span>
+
+
