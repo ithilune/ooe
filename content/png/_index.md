@@ -1,4 +1,5 @@
 ---
+type: png
 featured_image: images/horror_hero.webp
 title: PNG
 ---

@@ -1,5 +1,5 @@
 ---
-type: note
+type: nota
 featured_image: images/horror_hero.webp
 title: Note
 ---

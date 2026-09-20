@@ -41,9 +41,12 @@ menus:
     - name: Mappe
       pageRef: /mappe
       weight: 60  
+    - name: Search
+      pageRef: /search  
+      weight: 70
     - name: Credits
       pageRef: /credits
-      weight: 70 
+      weight: 80  
 
 params:
     #site_logo: images/logo.webp
