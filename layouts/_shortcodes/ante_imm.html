@@ -1,0 +1,25 @@
+<span class="tooltip-container">
+    <!-- Usando il tag <a> prende in automatico il colore dei link del tema -->
+    <a href="#" onclick="return false;" class="tooltip-trigger" style="text-decoration: none !important; cursor: default;">{{ .Get "testo" }}</a>
+    <span class="tooltip-content img-tooltip">
+        <img src="{{ .Get "src" | relURL }}" alt="{{ .Get "testo" }}" style="max-width: 100%; height: auto; display: block; border-radius: 2px;">
+    </span>
+</span>
+
+<style>
+.tooltip-container { position: relative; display: inline-block; }
+.tooltip-content.img-tooltip {
+    display: none; position: absolute; bottom: 125%; left: 50%;
+    transform: translateX(-50%); width: 250px; background-color: #333;
+    padding: 5px; border-radius: 4px; z-index: 10;
+}
+.tooltip-container:hover .tooltip-content { display: block; }
+
+/* Rimuove la sottolineatura anche quando passi il mouse sopra la parola */
+.tooltip-container:hover .tooltip-trigger {
+    text-decoration: none !important;
+}
+</style>
+
+
+

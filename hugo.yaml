@@ -54,6 +54,7 @@ params:
     recent_posts_number: 2
     featured_image_class: vh-95 bg-center
     #featured_image_class: contain bg-center
+    #custom_css: css/custom.css
     
 #ananke.home:
  #   content_alignment: right
