@@ -121,11 +121,6 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
             --cacheDir "${{ runner.temp }}/.cache/hugo"
 
-      - name: Genera indice Pagefind
-        run: |
-          echo "Running Pagefind indexer..."
-          npx pagefind --site public
-
       - name: Cache save
         uses: actions/cache/save@v6
         with:
