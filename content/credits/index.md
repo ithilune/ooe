@@ -4,9 +4,21 @@ title: Credits
 description: I ruolatori dell'avventura
 ---
 
-## Il Custode che tira i fili dell'avventura: Simone
-## Alfonso Moretti ruolato da: Franca
-## Bryan Thao Worra ruolato da: Paola
-## Elisabeth “Betty” Sunderland ruolata da: Gianluca
-## Jarrod Holst ruolato da: Simone
-## Nathaniel R. Miller ruolato da: Giuseppe
+<br>
+
+<span style="color: gray; font-size: 23px; ">
+
+Il Custode che tira i fili dell'avventura: <span style="color: #9b2c2c; font-weight: bold ">Simone</span>
+
+Alfonso Moretti ruolato da: <span style="color: #9b2c2c; font-weight: bold ">Franca</span>
+
+Bryan Thao Worra ruolato da: <span style="color: #9b2c2c; font-weight: bold ">Paola</span>
+
+Elisabeth “Betty” Sunderland ruolata da: <span style="color: #9b2c2c; font-weight: bold ">Gianluca</span>
+
+Jarrod Holst ruolato da: <span style="color: #9b2c2c; font-weight: bold ">Simone</span>
+
+Nathaniel R. Miller ruolato da: <span style="color: #9b2c2c; font-weight: bold ">Giuseppe</span>
+
+</span>
+

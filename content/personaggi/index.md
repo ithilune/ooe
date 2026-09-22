@@ -1,9 +1,8 @@
 ---
 featured_image: images/horror_hero.webp
 title: Personaggi
-description: I protagonisti dell'avventura
 ---
-
+## I protagonisti dell'avventura
 ---
 
 ### Alfonso Moretti

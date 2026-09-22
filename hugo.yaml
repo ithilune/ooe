@@ -64,6 +64,8 @@ params:
     featured_image_class: vh-95 bg-center #posizione hero image
     #featured_image_class: contain bg-center
     post_content_classes: f6 #dimensione globale del font
+    #background_color_class: bg-green
+
     
     
 #ananke.home:

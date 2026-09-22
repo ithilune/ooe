@@ -2,10 +2,10 @@
 type: indizio
 title: Foto del medaglione di Ossidiana della spedizione Maudslay
 ---
-{{< link_note testo="Scena II" url="/scene/02_scena" >}} 
+
 {{< figure src="/images/02_medaglione_maudslay.webp" >}}
 
----
+
 
 ## Indagini
 

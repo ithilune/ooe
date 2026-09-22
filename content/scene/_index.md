@@ -1,6 +1,6 @@
 ---
 featured_image: images/horror_hero.webp
-title: "Scene"
+title: Scene
 ---
 
 #### Le sessioni investigative
