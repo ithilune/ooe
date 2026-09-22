@@ -9,4 +9,4 @@ title: Foto degli scavi della spedizione Maudslay
 
 ## Luogo del ritrovamento
 
-- Ufficio del Professor Pendinghton, British Museum
+- {{< link_note testo="Ufficio del Professor Pendinghton, British Museum" url="/scene/02_scena">}}
