@@ -1,9 +1,9 @@
 ---
 type: png
-title: Beddow
+title: James Beddows
 ---
 
-{{< figure src="/images/02_beddow.webp" >}}
+{{< figure src="/images/02_beddows.webp" >}}
 
 Fidato maggiordomo e confidente del Professor Arthur Julius Smith
 
