@@ -37,5 +37,5 @@ title: Indagini
 ---
 ## Prossime mosse
 - recuperare le copie delle foto e ottenere uno stampo dei simbolo dell'altare e del medaglione di ossidiana
-- Tornare al Britsh Museum (prima chiuso) per reperire altre informazioni sugli oggetti?
+- (???) Tornare al Britsh Museum (prima chiuso) per reperire altre informazioni sugli oggetti
 - cercare le liste degli invitati, sia del ricevimento della collezione Maudslay al British Museum, sia del simposio di Smith rivolgendoci al maggiordomo Beddows.
