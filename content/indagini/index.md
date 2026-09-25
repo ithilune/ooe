@@ -25,7 +25,7 @@ title: Indagini
 
 #### Il simbolo dell'altare e il medaglione di ossidiana
 - cosa rappresenta il misterioso medaglione di ossidiana e perchè non è fra i reperti esposti? Le incisioni su di esso sembrano una lingua sconosciuta, una mescolanza fra persiano e egiziano
-- cosa rappresenta il simbolo a forma di polipo sull'altare? E' una divinità minore? E' fuori luogo ritrovarlo nella cultura degli antichi popoli del Centro America
+- cosa rappresenta il simbolo a forma di polpo sull'altare? E' una divinità minore? E' fuori luogo ritrovarlo nella cultura degli antichi popoli del Centro America
 
 #### Varie
 - la cifra pagata dal British Museum al Dottor Pendinghton è faraonica. Che cosa c'è sotto?
