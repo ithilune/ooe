@@ -37,9 +37,10 @@ Moretti si intrattiene con il maggiordomo Beddows. Gli domanda del mediorientale
 Sunderland chiede direttamente a Smith del mediorientale sconosciuto. Smith afferma che non è strano vedere un mediorientale a Londra, data l'alta presenza di questa etnia e non ritiene di essere minacciato. Holst, dimostrando forte interesse, chiede al professore di parlare in privato dei suoi studi. In risposta, Smith invita i cinque nella sua casa, a cena, sabato 6 gennaio alle 20.00.
 Proseguendo il dialogo sulle sue ricerche con Miller, Smith afferma che questi fenomeni temporali sembrano non andare più indietro dell'epoca dell'impero romano. Ha fatto altre scoperte, che non ha voluto rivelare per non allarmare il pubblico. Spiegherà tutto ai cinque sabato sera. Il professore poi si congeda.
 
-Al ritorno verso il Savoy Hotel i nostri si confrontano su quello che è accaduto, senza trovare una risposta. Per rintracciare il nome dello sconosciuto turco balena l'idea di cercare le liste degli invitati, sia del ricevimento della collezione Maudslay al British Museum, sia del simposio di Smith rivolgendosi al maggiordomo Beddows. Inoltre avere degli stampi fisici del simbolo dell'altare e del medaglione di ossidiana potrebbe essere utile, una volta avute le foto.
+Al ritorno verso il Savoy Hotel i nostri si confrontano su quello che è accaduto, senza trovare una risposta. Sunderland ricorda che Smith era solito tenere un diario, ma tiene questa informazione per sé.
+Per rintracciare il nome dello sconosciuto turco balena l'idea di cercare le liste degli invitati, sia del ricevimento della collezione Maudslay al British Museum, sia del simposio di Smith rivolgendosi al maggiordomo Beddows. Inoltre avere degli stampi fisici del simbolo dell'altare e del medaglione di ossidiana potrebbe essere utile, una volta avute le foto.
 
-Le giornate proseguono tranquille fino alla mattina di sabato 6 gennaio quando i cinque leggono sul giornale due notizie: il {{<link_note testo="ritrovamento di tre cadaveri di etnia turca" url="/indizi/articolo_morte_turchi">}}  e dell'{{<link_note testo="incendio della casa del Professor Smith" url="/indizi/articolo_incendio_casa_smith">}}.
+Le giornate proseguono tranquille fino alla mattina di sabato 6 gennaio quando i cinque leggono sul giornale due notizie: il {{<link_note testo="ritrovamento di tre cadaveri di etnia turca" url="/indizi/articolo_morte_turchi ">}} e dell'{{<link_note testo="incendio della casa del Professor Smith" url="/indizi/articolo_incendio_casa_smith">}}.
 
 ---
 
@@ -50,5 +51,6 @@ Le giornate proseguono tranquille fino alla mattina di sabato 6 gennaio quando i
 - l'animale rappresentato dal simbolo dell'altare, un polpo, è fuori luogo nella cultura degli antichi popoli del Centro America
 - chi sono gli uomini pericolosi di Costantinopoli che minacciano Smith?
 - le ricerche di Smith sulla parapsicologia, sulle diverse dimensioni temporali che si fermano all'epoca romana. Quali sono le altre scoperte che non ha rivelato?
+- il diario del Professor Smith (ne è a conoscenza solo Sunderland)
 
   

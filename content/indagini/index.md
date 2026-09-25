@@ -15,6 +15,7 @@ title: Indagini
 - ha una fonte di danaro sconosciuta
 - le cause della morte dell'adorata moglie, avvenuta nel 1918, sono sconosciute
 - le ricerche di Smith sulla parapsicologia, sulle diverse dimensioni temporali che si fermano all'epoca romana. Quali sono le altre scoperte che non ha rivelato?
+- il diario del Professor Smith (ne è a conoscenza solo Sunderland)
 
 #### Il turco sconosciuto
 - chi è il turco sconosciuto e che rapporti ha con il Professor Smith?
