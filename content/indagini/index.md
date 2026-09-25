@@ -11,10 +11,11 @@ title: Indagini
 {{% colonne size="f6" %}}
 
 #### Professor Smith
-- ha sempre evitato di raccontare del periodo a Costantinpoli, circa trent’anni fa. Cosa è successo in quel frangente? 
-- ha una fonte di danaro sconosciuta
-- le cause della morte dell'adorata moglie, avvenuta nel 1918, sono sconosciute
+- ha sempre evitato di raccontare del periodo a Costantinopoli, circa trent’anni fa. Cosa è successo in quel frangente? 
+- ~~ha una fonte di danaro sconosciuta~~ ***Smith rivela che ha rinvenuto un giacimento di diamanti in una tenuta acquistata in sud africa*** (da verificare)
+- le cause della morte dell'amata moglie, avvenuta nel 1918, sono sconosciute
 - le ricerche di Smith sulla parapsicologia, sulle diverse dimensioni temporali che si fermano all'epoca romana. Quali sono le altre scoperte che non ha rivelato?
+- chi sono gli uomini pericolosi di Costantinopoli, menzionati da Beddows, che minaccianoil Professor Smith?
 - il diario del Professor Smith (ne è a conoscenza solo Sunderland)
 
 #### Il turco sconosciuto
@@ -29,7 +30,7 @@ title: Indagini
 
 #### Varie
 - la cifra pagata dal British Museum al Dottor Pendinghton è faraonica. Che cosa c'è sotto?
-- chi sono gli uomini pericolosi di Costantinopoli che minacciano Smith?
+
 
 {{% /colonne %}}
 
