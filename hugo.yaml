@@ -32,26 +32,30 @@ menus:
     - name: Indizi
       pageRef: /indizi
       weight: 30
+    - name: Indagini
+      pageRef: /indagini
+      weight: 40  
     - name: PNG
       pageRef: /png
-      weight: 40
+      weight: 50
     - name: Note
       pageRef: /note
-      weight: 50
+      weight: 60
     - name: Mappe
       pageRef: /mappe
-      weight: 60  
+      weight: 70  
     - name: Search
       pageRef: /search  
-      weight: 70
+      weight: 80
     - name: Credits
       pageRef: /credits
-      weight: 80  
+      weight: 90  
 
 params:
     #site_logo: images/logo.webp
     mainSections: scene  #nota principale index
-    date_format: 2 gennaio 2006
+    #date_format: "02 dicembre 2006"
+    date_format: :date_long
     read_more_copy: Leggi tutto
     #show_reading_time: true
     #background_color_class: bg-green
