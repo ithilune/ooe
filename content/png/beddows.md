@@ -9,6 +9,10 @@ Fidato maggiordomo e confidente del Professor Arthur Julius Smith
 
 <br>
 
-Incontri
+### Indagini
+
+- rivela che uomini pericolosi di Costantinopoli minacciano il Professor Smith
+
+### Incontri
  
- {{< link_note testo="All'inaugurazione della collezione Maudslay" url="/scene/02_scena" >}} 
+ - {{< link_note testo="all'inaugurazione della collezione Maudslay, British Museum, Londra" url="/scene/02_scena" >}} 

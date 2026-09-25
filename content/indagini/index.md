@@ -15,17 +15,17 @@ title: Indagini
 - ~~ha una fonte di danaro sconosciuta~~ ***Smith rivela che ha rinvenuto un giacimento di diamanti in una tenuta acquistata in sud africa*** (da verificare)
 - le cause della morte dell'amata moglie, avvenuta nel 1918, sono sconosciute
 - le ricerche di Smith sulla parapsicologia, sulle diverse dimensioni temporali che si fermano all'epoca romana. Quali sono le altre scoperte che non ha rivelato?
-- chi sono gli uomini pericolosi di Costantinopoli, menzionati da Beddows, che minaccianoil Professor Smith?
+- chi sono gli uomini pericolosi di Costantinopoli, menzionati da Beddows, che minacciano il Professor Smith?
 - il diario del Professor Smith (ne è a conoscenza solo Sunderland)
 
 #### Il turco sconosciuto
-- chi è il turco sconosciuto e che rapporti ha con il Professor Smith?
+- chi è il turco sconosciuto che guarda con odio il Professor Smith e che rapporti ha con lui? Smith pare conoscerlo, ma senza darlo a intendere.
 - ha una cicatrice o ustione sul collo
 
 <!-- colonna -->
 
 #### Il simbolo dell'altare e il medaglione di ossidiana
-- cosa rappresenta il misterioso medaglione di ossidiana e perchè non è fra i reperti esposti? Le incisioni su di esso sembrano una lingua sconosciuta, una mescolanza fra persiano e egiziano
+- cosa rappresenta il misterioso medaglione di ossidiana e perché non è fra i reperti esposti? Le incisioni su di esso sembrano una lingua sconosciuta, una mescolanza fra persiano e egiziano
 - cosa rappresenta il simbolo a forma di polpo sull'altare? E' una divinità minore? E' fuori luogo ritrovarlo nella cultura degli antichi popoli del Centro America
 
 #### Varie

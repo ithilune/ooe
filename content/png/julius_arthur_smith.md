@@ -15,7 +15,7 @@ title: Julius Arthur Smith
 
 ## Indagini
 
-- Ha sempre evitato di raccontare del periodo a Costantinpoli, circa trent’anni fa. Cosa è successo in quel frangente? 
-- Ha una fonte di danaro sconosciuta. 
-- Le cause della morte dell'adorata moglie, avvenuta nel 1918, sono sconosciute.
+- ha sempre evitato di raccontare del periodo a Costantinpoli, circa trent’anni fa. Cosa è successo in quel frangente?
+- ha una fonte di danaro sconosciuta
+- le cause della morte dell'adorata moglie, avvenuta nel 1918, sono sconosciute
 
