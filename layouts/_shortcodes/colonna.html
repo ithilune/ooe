@@ -1,0 +1,7 @@
+{{ $size := .Get "size" | default "f5" }} <!-- f5 è la grandezza standard -->
+
+<div class="cf ph2-ns">
+  <div class="fl w-100 w-50-ns pa2 mw-100 {{ $size }}">
+    {{ .Inner | markdownify }}
+  </div>
+</div>

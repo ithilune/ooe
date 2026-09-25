@@ -39,7 +39,7 @@ Proseguendo il dialogo sulle sue ricerche con Miller, Smith afferma che questi f
 
 Al ritorno verso il Savoy Hotel i nostri si confrontano su quello che è accaduto, senza trovare una risposta. Per rintracciare il nome dello sconosciuto turco balena l'idea di cercare le liste degli invitati, sia del ricevimento della collezione Maudslay al British Museum, sia del simposio di Smith rivolgendosi al maggiordomo Beddows. Inoltre avere degli stampi fisici del simbolo dell'altare e del medaglione di ossidiana potrebbe essere utile, una volta avute le foto.
 
-Le giornate proseguono tranquille fino alla mattina di sabato 6 gennaio quando i cinque leggono sul giornale due notizie: il {{<link_note testo="ritrovamento di tre cadaveri di etnia turca" url="/indizi/articolo_morte_turchi">}} e dell'{{<link_note testo="incendio della casa del Professor Smith" url="/indizi/articolo_incendio_casa_smith">}}.
+Le giornate proseguono tranquille fino alla mattina di sabato 6 gennaio quando i cinque leggono sul giornale due notizie: il {{<link_note testo="ritrovamento di tre cadaveri di etnia turca" url="/indizi/articolo_morte_turchi">}}  e dell'{{<link_note testo="incendio della casa del Professor Smith" url="/indizi/articolo_incendio_casa_smith">}}.
 
 ---
 
