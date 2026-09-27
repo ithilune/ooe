@@ -5,7 +5,7 @@ title: Personaggi
 ## I protagonisti dell'avventura
 ---
 
-### Alfonso Moretti
+## Alfonso Moretti
 
 {{% colonne size="f6" %}}
 
@@ -23,7 +23,7 @@ Un italiano geniale sulla sessantina, Moretti è professore emerito di Lingue e 
 
 ---
 
-### Bryan Thao Worra
+## Bryan Thao Worra
 
 {{% colonne size="f6" %}}
 
@@ -40,7 +40,7 @@ Poeta laotiano, Thao Worra è autore di una raccolta di poesie intitolata Dall'a
 
 ---
 
-### Elisabeth "Betty" Sunderland
+## Elisabeth "Betty" Sunderland
 
 {{% colonne size="f6" %}}
 
@@ -58,7 +58,7 @@ Una matriarca vedova, Betty Sunderland viaggia sull'Orient Express per far visit
 
 ---
 
-### Jarrod Holst
+## Jarrod Holst
 
 {{% colonne size="f6" %}}
 
@@ -76,7 +76,7 @@ Il dottor Holst, medico australiano che sta approfondendo gli studi di psichiatr
 
 ---
 
-### Nathaniel R. Miller
+## Nathaniel R. Miller
 
 {{% colonne size="f6" %}}
 
