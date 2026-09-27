@@ -1,7 +1,7 @@
 ---
 type: scena
 date: 1923-01-02
-title: Scena III
+title: Scena 3
 summary: In tarda nottata i nostri lasciano il ricevimento al British Museum e ritornano in carrozza al Savoy Hotel. Sta nevicando e l'atmosfera esterna è gelida.
 ---
 In tarda nottata i nostri lasciano il ricevimento al British Museum e ritornano in carrozza al Savoy Hotel. Sta nevicando e l'atmosfera esterna è gelida. Si confidano su quello che è successo nella serata, l'intrusione di Miller e Sunderland nell'ufficio di Pendinghton e l'avvistamento di Holst e Worra dell'uomo mediorientale sconosciuto. Si scambiano i rispettivi schizzi, del simbolo sull'altare, del medaglione di ossidiana, dell'uomo sconosciuto. Holst alla vista dei disegni del simbolo e del medaglione prova la stessa sensazione di inquietudine e vertigine di Sunderland. Holst rammenta che l'uomo sconosciuto aveva una cicatrice o ustione, non può dirlo con certezza, sul collo, che spuntava dal colletto della camicia.
@@ -40,7 +40,7 @@ Proseguendo il dialogo sulle sue ricerche con Miller, Smith afferma che questi f
 Al ritorno verso il Savoy Hotel i nostri si confrontano su quello che è accaduto, senza trovare una risposta. Sunderland ricorda che Smith era solito tenere un diario, ma tiene questa informazione per sé.
 Per rintracciare il nome dello sconosciuto turco balena l'idea di cercare le liste degli invitati, sia del ricevimento della collezione Maudslay al British Museum, sia del simposio di Smith rivolgendosi al maggiordomo Beddows. Inoltre avere degli stampi fisici del simbolo dell'altare e del medaglione di ossidiana potrebbe essere utile, una volta avute le foto.
 
-Le giornate proseguono tranquille fino alla mattina di sabato 6 gennaio quando i cinque leggono sul giornale due notizie: il {{<link_note testo="ritrovamento di tre cadaveri di etnia turca" url="/indizi/articolo_morte_turchi">}} &nbsp; e dell'{{<link_note testo="incendio della casa del Professor Smith" url="/indizi/articolo_incendio_casa_smith">}}.
+Le giornate proseguono tranquille fino alla mattina di sabato 6 gennaio quando i cinque leggono sul giornale due notizie: il {{<link_note testo="ritrovamento di tre cadaveri di etnia turca" url="/indizi/articolo_morte_turchi">}}  e l'{{<link_note testo="incendio della casa del Professor Smith" url="/indizi/articolo_incendio_casa_smith">}}.
 
 ---
 

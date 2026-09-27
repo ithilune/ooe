@@ -1,7 +1,7 @@
 ---
 type: scena
 date: 1922-12-30
-title: Scena II
+title: Scena 2
 summary: La mattina del 30 dicembre, dopo una sontuosa colazione nelle sale del "Savoy Hotel" i nostri si dividono.
 ---
 La mattina del 30 dicembre, dopo una sontuosa colazione nelle sale del Savoy Hotel i nostri si dividono. Betty Sunderland, che si è rivelata una egittologa, possiede un negozio di antichità nel quartiere di Soho. Moretti, interessato, le chiede di visitarlo. Si aggregano Worra e Holst, insieme alla segretaria di Sunderland, Grace.

@@ -1,7 +1,7 @@
 ---
 type: scena
 date: 1922-12-29
-title: Scena I
+title: Scena 1
 summary: Nell'affollata e lussuosa hall del "Savoy Hotel" a Londra, **Alfonso Moretti**, **Bryan Thao Worra**, **Elisabeth Sunderland**, **Jarrod Holst**, **Nathaniel R. Miller** si incontrano.
 ---
 Nell'affollata e lussuosa hall del Savoy Hotel a Londra, **Alfonso Moretti**, **Bryan Thao Worra**, **Elisabeth Sunderland**, **Jarrod Holst**, **Nathaniel R. Miller** si incontrano, accolti dal concierge Alaistar. In compagnia di Elisabeth Sunderland, c'è la sua segretaria e fidata amica Grace Murphy. Scambiando quattro chiacchere scoprono che hanno un amico comune, il Professor {{<link_note testo="Julius Arthur Smith" url="/png/julius_arthur_smith">}}, Dottore in lettere, che ora si dedica unicamente alla {{< link_note testo="ricerca" url="/note/01_nota_smith" >}}. 
