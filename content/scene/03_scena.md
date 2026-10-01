@@ -25,7 +25,7 @@ Ritornano al Savoy Hotel, ricongiungendosi con Miller. Notano, senza fare osserv
 
 I nostri si recano al simposio sulla parapsicologia del Professor Smith, all'Imperial Istitute, nel quartiere di Kensington. C'è una gran folla, accademici e personalità di spicco, fra cui il primo ministro. I flash dei fotografi si sprecano.
 Smith saluta da lontano, indaffarato nella preparazione della sua conferenza.
-Il simposio inizia. Un apparato di riproduzione di filmati proietta delle immagini, introdotte da Smith. Il professore parla del metodo empirico usato per dimostrare la veridicità delle immagini, le riprese da tre posizioni e a differenti velocità. Mostra tre filmati di una donna, una carrozza e un peschereccio. Sono avvolti da una specie di aura. Smith afferma che non sono sul nostro piano della realtà, ma su un'altra dimensione temporale. Sono rallentate rispetto alla nostra realtà e sono state accelerate tre volte per poterle riprodurle. I soggetti appartengono a un altro tempo.
+Il simposio inizia. Un apparato di riproduzione di filmati proietta delle immagini, introdotte da Smith. Il professore parla del metodo empirico usato per dimostrare la veridicità delle immagini, le riprese da tre posizioni e a differenti velocità. Mostra {{<link_note testo="tre filmati" url="/note/03_filmati_simposio">}} di una donna, una carrozza e un peschereccio. Sono avvolti da una specie di aura. Smith afferma che non sono sul nostro piano della realtà, ma su un'altra dimensione temporale. Sono rallentate rispetto alla nostra realtà e sono state accelerate tre volte per poterle riprodurle. I soggetti appartengono a un altro tempo.
 Afferma la possibilità in futuro, con approfonditi studi scientifici applicati alla parapsicologia, di andare oltre il "velo" che separa le realtà, addirittura di poter compiere dei viaggi nel tempo.
 
 In mezzo alla folla acclamante, Miller e Moretti scorgono l'uomo mediorientale sconosciuto con indosso un fez rosso. Poi lo sconosciuto si mischia tra la folla, seminando Miller.
@@ -40,7 +40,7 @@ Proseguendo il dialogo sulle sue ricerche con Miller, Smith afferma che questi f
 Al ritorno verso il Savoy Hotel i nostri si confrontano su quello che è accaduto, senza trovare una risposta. Sunderland ricorda che Smith era solito tenere un diario, ma tiene questa informazione per sé.
 Per rintracciare il nome dello sconosciuto turco balena l'idea di cercare le liste degli invitati, sia del ricevimento della collezione Maudslay al British Museum, sia del simposio di Smith rivolgendosi al maggiordomo Beddows. Inoltre avere degli stampi fisici del simbolo dell'altare e del medaglione di ossidiana potrebbe essere utile, una volta avute le foto.
 
-Le giornate proseguono tranquille fino alla mattina di sabato 6 gennaio quando i cinque leggono sul giornale due notizie: il {{<link_note testo="ritrovamento di tre cadaveri di etnia turca" url="/indizi/articolo_morte_turchi">}}  e l'{{<link_note testo="incendio della casa del Professor Smith" url="/indizi/articolo_incendio_casa_smith">}}.
+Le giornate proseguono tranquille fino alla mattina di sabato 6 gennaio quando i cinque leggono sul giornale due notizie: il {{<link_note testo="ritrovamento di tre cadaveri di etnia turca" url="/indizi/articolo_morte_turchi">}} &nbsp; e l'{{<link_note testo="incendio della casa del Professor Smith" url="/indizi/articolo_incendio_casa_smith">}}.
 
 ---
 

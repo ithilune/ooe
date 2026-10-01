@@ -7,4 +7,4 @@ title: Telegramma di invito di Smith
 
 <br>
 
-Riferimenti {{< link_note testo="Scena I" url="/scene/01_scena" >}} 
+Riferimenti {{< link_note testo="Scena 1" url="/scene/01_scena" >}} 

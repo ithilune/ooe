@@ -6,7 +6,7 @@ description: I ruolatori dell'avventura
 
 <br>
 
-<span style="font-size: 21px; ">
+<span style="color: gray; font-size: 23px; ">
 
 Il Custode che tira i fili dell'avventura: <span style="color: #9b2c2c; font-weight: bold ">Simone</span>
 
